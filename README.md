@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently Studying at KCG College of Technology
+🔭 I’m currently Studying at KCG College of Technology.
 
 🌱 I’m currently learning React js.
 
@@ -8,7 +8,7 @@
 
 💬 Ask me about Front end design stuffs.
 
-📫 How to reach me:Twitter - @myselfLogith
+📫 How to reach me:[Twitter - @myselfLogith](https://twitter.com/LogithVj)
 
 😄 Pronouns: he/his
 
